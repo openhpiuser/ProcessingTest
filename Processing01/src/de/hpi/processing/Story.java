@@ -41,7 +41,7 @@ public class Story extends PApplet {
 		
 		
 	}
-	
+	 
 
 	@Override
 	public void draw(){
